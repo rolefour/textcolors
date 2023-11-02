@@ -58,4 +58,7 @@
 
 #endif
 
+#define CHECK GREEN " ✓" RESET
+#define CROSS RED " ✗" RESET
+
 void textcolortest();

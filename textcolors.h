@@ -58,5 +58,5 @@
 
 #endif
 
-#define CHECK GREEN " ✓" RESET
-#define CROSS RED " ✗" RESET
+#define CHECK GREEN "✓" RESET
+#define CROSS RED "✗" RESET
